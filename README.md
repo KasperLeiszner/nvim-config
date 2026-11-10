@@ -10,7 +10,7 @@ LazyVim setup tuned for people coming from **JetBrains Rider** (Visual Studio OS
 ## Install (macOS)
 
 ```bash
-git clone https://github.com/<you>/<repo>.git ~/.config/nvim
+git clone https://github.com/KasperLeiszner/nvim-config.git ~/.config/nvim
 ~/.config/nvim/install.sh
 ```
 
